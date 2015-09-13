@@ -17,5 +17,5 @@ print_hi("Tyler")
 
 Check out my [Research][tresearch] or [Resources][tresources] in the mean time.
 
-[tresources]:      https://tylerhalfpop.com/resources
-[tresearch]:   https://tylerhalfpop.com/research
+[tresources]:      http://tylerhalfpop.com/resources/
+[tresearch]:   http://tylerhalfpop.com/research/
