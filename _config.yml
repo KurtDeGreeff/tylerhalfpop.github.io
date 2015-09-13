@@ -1,0 +1,12 @@
+# Site settings
+title: TylerHalfpop.com
+email: me[at]tylerhalfpop[dot]com
+description: > # 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://tylerhalfpop.com" # the base hostname & protocol for your site
+twitter_username: tylerhalfpop
+github_username:  tylerhalfpop
+linkedin_username: tylerhalfpop
+
+# Build settings
+markdown: kramdown
