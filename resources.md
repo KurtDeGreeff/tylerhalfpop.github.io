@@ -15,7 +15,7 @@ Books:</h3>
 <li><a href="http://amzn.com/B00IA22R2Y" target="_blank">Practical Reverse Engineering</a></li>
 <li><a href="http://amzn.com/B007032XZK" target="_blank">Reversing: Secrets of Reverse Engineering</a></li>
 <li><a href="http://amzn.com/1593272901" target="_blank">Practical Malware Analysis</a></li>
-<li><a href="http://amzn.com/B0047DWCMA" target="_blank">Malware Analyst's Cookbook/a></li>
+<li><a href="http://amzn.com/B0047DWCMA" target="_blank">Malware Analyst's Cookbook</a></li>
 <li><a href="http://amzn.com/0071832386" target="_blank">Gray Hat Hacking</a></li>
 </ul>
 <h3 id="courses">
