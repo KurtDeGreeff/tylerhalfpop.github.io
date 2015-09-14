@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Reverse Engineering Malware Analysis Mindmap"
-date:   2015-09-13 16:54:04
-categories: jekyll update
+date:   2015-09-13 20:38:00
+categories: 
 ---
 
 Reverse Engineering Malware Analysis Mindmap
 
-![REMA_MindMap]({{ site.url }}/img/RE Malware Analysis Skills and Tools by Tyler Halfpop.jpg.jpg)
+![REMA_MindMap]({{ site.url }}/img/REMA_mindmap.jpg)

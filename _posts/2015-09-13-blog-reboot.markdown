@@ -2,7 +2,7 @@
 layout: post
 title:  "Blog Reboot"
 date:   2015-09-13 16:54:04
-categories: jekyll update
+categories: 
 ---
 
 Blog Reboot
