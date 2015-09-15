@@ -16,6 +16,16 @@ permalink: /research/
   </thead>
   <tbody>
     <tr>
+      <td>2015-09-10,15</td>
+      <td>Malware in Memory</td>
+      <td><a href="http://www.slideshare.net/thalfpop/malware-in-memory-sans-network-security-and-issa-20150915" target="_blank">Slides</a></td>
+    </tr>
+    <tr>
+      <td>2015-08-26</td>
+      <td>Metasploit Training</td>
+      <td><a href="http://www.slideshare.net/thalfpop/metasploit-training-briefing-20150826" target="_blank">Slides</a></td>
+    </tr>
+    <tr>
       <td>2015-08-15</td>
       <td>DarkComet Appendix B Technical Analysis</td>
       <td><a href="http://www.fidelissecurity.com/sites/default/files/FTA_1018_looking_at_the_sky_for_a_dark_comet.pdf" target="_blank">PDF</a></td>
