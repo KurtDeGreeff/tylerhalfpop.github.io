@@ -18,7 +18,7 @@ permalink: /research/
     <tr>
       <td>2015-09-10,15</td>
       <td>Malware in Memory</td>
-      <td><a href="http://www.slideshare.net/thalfpop/malware-in-memory-sans-network-security-and-issa-20150915" target="_blank">Slides</a></td>
+      <td><a href="http://www.slideshare.net/thalfpop/malware-in-memory-sans-network-security-and-issa-20150915" target="_blank">Slides</a> / <a href="https://www.sans.org/webcasts/turn-lights-case-studies-malware-memory-100667/success" target="_blank">SANS Webcast</a></td>
     </tr>
     <tr>
       <td>2015-08-26</td>
