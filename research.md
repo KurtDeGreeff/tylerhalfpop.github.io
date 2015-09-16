@@ -16,6 +16,16 @@ permalink: /research/
   </thead>
   <tbody>
     <tr>
+      <td>2015-10-11</td>
+      <td>Back to the Future with Document Malware</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>2015-09-26</td>
+      <td>A survey of Powershell enabled malware</td>
+      <td> </td>
+    </tr>
+    <tr>
       <td>2015-09-10,15</td>
       <td>Malware in Memory</td>
       <td><a href="http://www.slideshare.net/thalfpop/malware-in-memory-sans-network-security-and-issa-20150915" target="_blank">Slides</a> / <a href="https://www.sans.org/webcasts/turn-lights-case-studies-malware-memory-100667/success" target="_blank">SANS Webcast</a></td>
