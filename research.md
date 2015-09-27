@@ -23,7 +23,7 @@ permalink: /research/
     <tr>
       <td>2015-09-26</td>
       <td>Derbycon - A survey of Powershell enabled malware</td>
-      <td> </td>
+      <td><a href="http://www.slideshare.net/thalfpop/survey-of-powershell-enabled-malware-derbycon-20150926" target="_blank">Slides</a> </td>
     </tr>
     <tr>
       <td>2015-09-15</td>
