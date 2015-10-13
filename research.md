@@ -18,7 +18,7 @@ permalink: /research/
     <tr>
       <td>2015-10-11</td>
       <td>SANS DFIR SUMMIT - Back to the Future with Document Malware</td>
-      <td> </td>
+      <td><a href="http://www.slideshare.net/thalfpop/back-to-the-future-with-document-malware-20151011-dfir-summit-prague" target="_blank">Slides</a></td>
     </tr>
     <tr>
       <td>2015-09-26</td>
