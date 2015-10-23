@@ -35,7 +35,7 @@ Courses:</h3>
 Favorite Tools</h3>
 <ul>
 <li><a href="https://www.hex-rays.com/products/ida/index.shtml" target="_blank">IDA Pro</a></li>
-<li><a href="http://www.mcafee.com/us/downloads/free-tools/fileinsight.aspx" target="_blank">File Insight</a></li>
+<li><a href="http://www.sweetscape.com/010editor/" target="_blank">010 Editor</a></li>
 <li><a href="http://www.winitor.com/" target="_blank">PeStudio</a></li>
 <li><a href="https://github.com/0xd4d/dnSpy" target="_blank">dnSpy</a></li>
 <li><a href="http://jd.benow.ca/" target="_blank">jd-gui</a></li>
